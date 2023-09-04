@@ -147,6 +147,5 @@ def index():
 		plot_result3=plot_result3
 	)
 
-
 if __name__ == "__main__": 
     app.run(debug=True)
